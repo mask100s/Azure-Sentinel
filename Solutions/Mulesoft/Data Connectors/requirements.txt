@@ -4,4 +4,4 @@
 
 azure-storage-file-share==12.3.0
 azure-functions
-requests==2.32.4
+requests==2.33.0

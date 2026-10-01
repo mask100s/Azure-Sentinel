@@ -4,6 +4,6 @@
 
 azure-functions
 azure-functions-durable
-requests==2.32.4
+requests==2.33.0
 azure-identity
 azure-monitor-ingestion
